@@ -1,0 +1,11 @@
+Roteioro de Instalação
+
+Instalar com instalar.bat
+1 - Executar o arquivo instalar.bat clicando (uma ou duas vezes) sobre ele e caso solicite acesso adminitrator, favor informar Usuário e Senha para prosseguir
+
+Instalar com rotina.ps1
+1 - Liberar a execução de scripts PowerShell com o procedimento abaixo:
+    1.1 - Abrir o PowerShell como adminitrator
+    1.2 - Execute o comando Set-ExecutionPolicy Unrestricted e pressione Enter e depois digite "S" para confirmar.
+
+2 - Execute o arquivo rotina.ps1, clicando com o Botão Direito e depois em Executar com PowerShell
